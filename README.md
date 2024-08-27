@@ -1,7 +1,4 @@
 # Dave J. Arnold
-
-**Phone:** (707) 480-6346  
-**Email:** dave@roknsound.com  
 **LinkedIn:** [linkedin.com/in/dave-arnold-111b3534](https://www.linkedin.com/in/dave-arnold-111b3534)
 
 ## Objective
