@@ -1,6 +1,5 @@
 # Dave J. Arnold
 **LinkedIn:** [linkedin.com/in/dave-arnold-111b3534](https://www.linkedin.com/in/dave-arnold-111b3534)
-
 **Github Org:** [https://github.com/orgs/HappyPathway](https://github.com/orgs/HappyPathway)
 
 ## Objective
