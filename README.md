@@ -1,6 +1,6 @@
 # Dave J. Arnold
 **LinkedIn:** [linkedin.com/in/dave-arnold-111b3534](https://www.linkedin.com/in/dave-arnold-111b3534)
-
+**Github Org:** [https://github.com/orgs/HappyPathway](https://github.com/orgs/HappyPathway)
 ## Objective
 DevOps Engineer with extensive experience in automating infrastructure deployments and enhancing operational efficiency. Seeking a challenging role in a forward-thinking company where I can leverage my skills in Terraform, AWS/GCP, and team leadership to drive impactful solutions.
 
